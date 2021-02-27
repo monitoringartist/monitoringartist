@@ -1,6 +1,6 @@
 # Hi visitor 👋
 
-We are Monitoring Artist company, mainly focused on monitoring 📣, cloud ☁️, authentication 🔒 projects.
+We are Monitoring Artist company, mainly focused on cloud ☁️, authentication 🔒, monitoring 📣 projects.
 Working, Devopsing, Dockerising, Grafanasing, Keycloaking, Clouding, Lambdasing for customers around the globe. 
 If you are using our projects, please provide feedback and star them.
 
